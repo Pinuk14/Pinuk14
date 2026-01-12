@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="auto"/>
-</div>
-
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Pinak Meher</h1>
 
 <p align="center">

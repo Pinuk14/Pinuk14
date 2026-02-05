@@ -38,6 +38,13 @@
 
 ---
 
+## 🏅 Certifications & Badges
+<p align="center">
+<a href="https://www.credly.com/users/pinak-meher"><img src="https://images.credly.com/images/your-badge-path.png" width="100" /></a>
+</p>
+
+---
+
 ## 🏆 Achievements
 - 🥇 **1st Prize** – AuraSnap (VCET VNPS Innovation Contest 2024)
 - 🥇 **1st Prize** – IVA Project (Mini Project Competition)

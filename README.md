@@ -40,7 +40,9 @@
 
 ## 🏅 Certifications & Badges
 <p align="center">
-<a href="https://www.credly.com/users/pinak-meher"><img src="https://images.credly.com/images/your-badge-path.png" width="100" /></a>
+<a href="https://www.credly.com/users/your-username/badges/badge-id">
+  <img src="https://images.credly.com/images/.../image.png" width="100" height="100">
+</a>
 </p>
 
 ---

@@ -1,0 +1,19 @@
+name: Update Credly Badges
+on:
+  schedule:
+    - cron: "0 0 * * *" # Updates every day at midnight
+  workflow_dispatch: # Allows you to run it manually for testing
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Important: allows the action to update your README
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:
+          CREDLY_USER: pinak-meher # Replace with your actual Credly username/slug
+          # Optional: Use 'BADGE_SIZE: 100' to change dimensions

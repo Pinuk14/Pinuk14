@@ -52,11 +52,20 @@
   <a href="https://www.credly.com/badges/a4cec2af-3286-4fdd-8bd1-9ae10c6938b6/public_url" target="_blank" rel="noopener noreferrer">
     <img src="https://images.credly.com/images/3b1b42e6-dfc2-492b-90df-8058096cb93d/blob" alt="Credly Badge 4" width="120" style="margin:6px;" />
   </a>
+
   <a href="https://www.credly.com/badges/a4cec2af-3286-4fdd-8bd1-9ae10c6938b6/public_url" target="_blank" rel="noopener noreferrer">
     <img src="https://images.credly.com/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" alt="Credly Badge 5" width="120" style="margin:6px;" />
   </a>
+</div>
+<div align="center">
   <a href="https://www.credly.com/badges/a4cec2af-3286-4fdd-8bd1-9ae10c6938b6/public_url" target="_blank" rel="noopener noreferrer">
     <img src="https://images.credly.com/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob" alt="Credly Badge 6" width="120" style="margin:6px;" />
+  </a>
+  <a href="https://www.credly.com/badges/a4cec2af-3286-4fdd-8bd1-9ae10c6938b6/public_url" target="_blank" rel="noopener noreferrer">
+    <img src= "https://images.credly.com/images/a08cf90b-9838-4f6c-82bd-8db85fb89dd5/blob" alt="Credly Badge 6" width="120" style="margin:6px;" />
+  </a>
+  <a href="https://www.credly.com/badges/a4cec2af-3286-4fdd-8bd1-9ae10c6938b6/public_url" target="_blank" rel="noopener noreferrer">
+    <img src= "https://images.credly.com/images/fc6fa322-80f4-45a5-9def-91e9bcfde837/blob" alt="Credly Badge 6" width="120" style="margin:6px;" />
   </a>
 </div>
 

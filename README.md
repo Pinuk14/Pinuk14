@@ -38,7 +38,7 @@
 
 ---
 
-## 🏅 Certifications & Badges
+## 🏅 AWS Badges
 <div align="center">
   <a href="https://www.credly.com/badges/a4cec2af-3286-4fdd-8bd1-9ae10c6938b6/public_url" target="_blank" rel="noopener noreferrer">
     <img src="https://images.credly.com/images/7b08cc0e-064b-407d-b70e-323509c3e474/blob" alt="Credly Badge 1" width="120" style="margin:6px;" />
@@ -66,6 +66,12 @@
   </a>
   <a href="https://www.credly.com/badges/a4cec2af-3286-4fdd-8bd1-9ae10c6938b6/public_url" target="_blank" rel="noopener noreferrer">
     <img src= "https://images.credly.com/images/fc6fa322-80f4-45a5-9def-91e9bcfde837/blob" alt="Credly Badge 6" width="120" style="margin:6px;" />
+  </a>
+  <a href="https://www.credly.com/badges/a4cec2af-3286-4fdd-8bd1-9ae10c6938b6/public_url" target="_blank" rel="noopener noreferrer">
+    <img src= "https://images.credly.com/images/247efe36-9fa6-4209-ad56-0fd522283872/blob" alt="Credly Badge 6" width="120" style="margin:6px;" />
+  </a>
+  <a href="https://www.credly.com/badges/a4cec2af-3286-4fdd-8bd1-9ae10c6938b6/public_url" target="_blank" rel="noopener noreferrer">
+    <img src= "https://images.credly.com/images/4251ab91-6d67-47da-801c-855c0bbc6cc3/blob" alt="Credly Badge 6" width="120" style="margin:6px;" />
   </a>
 </div>
 

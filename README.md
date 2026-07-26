@@ -29,8 +29,8 @@ I build things that actually work — ML models, detection systems, automation t
 
 | | Paper | Area | Status |
 |---|---|---|---|
-| 📄 | [**AuraSnap: A Hybrid Model for Face-Based Photo Sorting and Organization**](https://doi.org/10.65521/ijacect.v14i3s.1645) | Computer Vision / AI | ✅ Accepted |
-| 📄 | [**NeuroWall: DDoS Protector**](https://doi.org/10.1007/978-3-032-27563-9_11) | Cybersecurity / ML-based threat detection | ✅ Accepted |
+| 📄 | [**AuraSnap: A Hybrid Model for Face-Based Photo Sorting and Organization**](https://doi.org/10.65521/ijacect.v14i3s.1645) | Computer Vision / AI | Published |
+| 📄 | [**NeuroWall: DDoS Protector**](https://doi.org/10.1007/978-3-032-27563-9_11) | Cybersecurity / ML-based threat detection | Published |
 
 ---
 
